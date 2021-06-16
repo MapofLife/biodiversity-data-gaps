@@ -73,7 +73,7 @@ The "scripts" folder includes the following files to reproduce figures:
   + Additional sources: ITIS, IUCN, Wikipedia
   
 ### References
-AmphibiaWeb: Information on ampbhibian biology and conservation (2016). http://amphibiaweb.org
+AmphibiaWeb: Information on ampbhibian biology and conservation (2019). http://amphibiaweb.org
 
 Clements, J.F., Schulenberg, T.S. Iliff, M.J., Billerman, S.M., Fredericks, T.A., Sullivan, B.L., & Wood, C.L. (2019). The eBird/Clements Checklist of Birds of the World: V2019
 
