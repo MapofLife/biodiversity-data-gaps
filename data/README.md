@@ -12,7 +12,7 @@ Ruth Y. Oliver, Carsten Meyer, Ajay Ranipeta, Kevin Winner, Walter Jetz. (2021) 
 **ADD DOI**
 
 ### Overview:
-All data and scripts to support figures in Oliver et al. 2021.
+All data to support figures in Oliver et al. 2021.
 
 #### Data
 Download and unzip the "data" folder, which includes the following files:
