@@ -18,6 +18,10 @@ Ruth Y. Oliver, Carsten Meyer, Ajay Ranipeta, Kevin Winner, Walter Jetz. (2021) 
 
 **ADD MS DOI**
 
+### Contact:
+Ruth Oliver, ruth.oliver@yale.edu
+Walter Jetz, walter.jetz@yale.edu
+
 ### Overview:
 All data and scripts to support figures in Oliver et al. 2021.
 
