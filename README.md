@@ -2,7 +2,8 @@
 
 ### Data and scripts to support Oliver et al. 2021 
 #### Species Status Information Index (SSII) and Species Sampling Effectiveness Index (SSEI)
-**ADD DATA DOI**
+
+> Oliver, R. Y., Meyer, C., Ranipeta, A., Winner, K., & Jetz, W. (2021). _Global and national trends, gaps, and opportunities in documenting and monitoring species distributions_ [Data set]. PLOS Biology. https://doi.org/10.48600/MOL-3Y3Z-DW77
 
 ### Description:
 Trends in national biodiversity data coverage and sampling effectiveness for terrestrial vertebrates (1950-2019) as indexed by the Species Status Information Index (SSII) and the Species Sampling Effectiveness Index (SSEI). The National SSII measures how well, on average, species are documented in a given nation over a given timespane, in this case per year. The Steward’s SSII adjusts the National SSII based on nations’ stewardship of species, upweighting the documentation of species for which a nation has particularly high stewardship. For a given species, SSII quantifies the proportion of the range with data, but not how effectively this data is distributed across the proportion of the range it covers. We characterize sampling effectiveness by relating the realized spatial distribution of records to the ideal uniform distribution based on Shannon’s entropy normalized to vary between 0 and 1, a metric we call the Species Sampling Effectiveness Index (SSEI). As for the SSII, we provide unweighted (National SSEI) and weighted (Steward’s SSEI) formulations of the SSEI to account for national stewardship of species. 
