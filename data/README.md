@@ -1,15 +1,14 @@
 ## Data to support Oliver et al. 2021
 #### Species Status Information Index (SSII) and Species Sampling Effectiveness Index (SSEI)
-**ADD DATA DOI**
+
+> Oliver, R. Y., Meyer, C., Ranipeta, A., Winner, K., & Jetz, W. (2021). _Global and national trends, gaps, and opportunities in documenting and monitoring species distributions_ [Data set]. PLOS Biology. https://doi.org/10.48600/MOL-3Y3Z-DW77
 
 For full details see Oliver et al. 2021.
 
 Explore at mol.org/indicators/coverage
 
 ### Attribution:
-Ruth Y. Oliver, Carsten Meyer, Ajay Ranipeta, Kevin Winner, Walter Jetz. (2021) Global and national trends, gaps, and opportunities in documenting and monitoring species distributions, *PLOS Biology*
-
-**ADD DOI**
+Oliver, R. Y., Meyer, C., Ranipeta, A., Winner, K., & Jetz, W. (2021). Global and national trends, gaps, and opportunities in documenting and monitoring species distributions. PLoS Biology 19(8): e3001336. doi.org/10.1371/journal.pbio.3001336
 
 ### Overview:
 All data to support figures in Oliver et al. 2021.
